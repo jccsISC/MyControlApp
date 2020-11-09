@@ -14,19 +14,27 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="titleStyle" parent="">
+    <style name="edtTypeOneStyle" parent="">
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:textColor">@color/colorLetterOne</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:background">@color/colorWhite</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="txtTitleStyle" parent="">
         <item name="android:textColor">@color/colorLetterOne</item>
         <item name="fontFamily">@font/roboto_bold</item>
         <item name="android:textSize">30sp</item>
     </style>
 
-    <style name="forgotStyle" parent="">
+    <style name="txtForgotStyle" parent="">
         <item name="android:textColor">@color/colorLetterOne</item>
         <item name="fontFamily">@font/roboto_bold</item>
         <item name="android:textSize">15sp</item>
     </style>
 
-    <style name="ButtonStyle" parent="">
+    <style name="btnTypeOneStyle" parent="">
         <item name="backgroundTint">@color/colorLetterOne</item>
         <item name="fontFamily">@font/roboto_bold</item>
         <item name="cornerFamily">rounded</item>

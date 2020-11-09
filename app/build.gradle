@@ -49,4 +49,6 @@ dependencies {
 
     //Design
     implementation 'com.airbnb.android:lottie:3.4.4'
+    implementation 'com.github.zladnrms:RoundableLayout:1.1.3'
+
 }

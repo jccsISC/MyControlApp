@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "137683276334",
+    "firebase_url": "https://mycontrol-a3479.firebaseio.com",
+    "project_id": "mycontrol-a3479",
+    "storage_bucket": "mycontrol-a3479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137683276334:android:5413690ce0d4f931b945bf",
+        "android_client_info": {
+          "package_name": "com.jccsisc.mycontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137683276334-ncg22tbeuteaiutdopk60mgdm3h22e1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgvp3udcMPJksLCKPyRLnMMfQHJzL0rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137683276334-ncg22tbeuteaiutdopk60mgdm3h22e1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

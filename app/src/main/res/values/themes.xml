@@ -14,5 +14,24 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="titleStyle" parent="">
+        <item name="android:textColor">@color/colorLetterOne</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="forgotStyle" parent="">
+        <item name="android:textColor">@color/colorLetterOne</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="ButtonStyle" parent="">
+        <item name="backgroundTint">@color/colorLetterOne</item>
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerRadius">10dp</item>
+        <item name="android:textSize">19sp</item>
+    </style>
 
 </resources>

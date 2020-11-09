@@ -22,7 +22,6 @@ class LoginActivity : AppCompatActivity() {
         binding.btnLogin.setOnClickListener {
             Toast.makeText(this, "Hola", Toast.LENGTH_SHORT).show()
         }
-
     }
 
 }
